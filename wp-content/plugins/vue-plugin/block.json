@@ -1,0 +1,24 @@
+{
+    "apiVersion": 2,
+    "name": "vue-plugin",
+    "title": "Vue Plugin",
+    "category": "common",
+    "attributes": {
+      "title": {
+        "type": "string",
+        "default": "Hello World"
+      },
+      "content": {
+        "type": "string",
+        "default": "This is my Vue.js plugin"
+      }
+    },
+    "supports": {
+      "html": false
+    },
+    "editorScript": "dist/assets/index-D6YOZ1Wq.css",
+    "editorStyle": "dist/assets/index-D6YOZ1Wq.css",
+    "script": "dist/assets/index-C8R7yiNw.js",
+    "style": "dist/assets/index-D6YOZ1Wq.css"
+  }
+  
